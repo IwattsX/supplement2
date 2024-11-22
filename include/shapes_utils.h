@@ -1,4 +1,11 @@
-// shapes_utils.h
+
+/**
+ * @brief header file containing function declarations
+ * rectangle_area(length, width)
+ * triangle_area(base, height)
+ * circle_area(radius)
+ * 
+ */
 #ifndef SHAPES_UTILS
 #define SHAPES_UTILS
 
